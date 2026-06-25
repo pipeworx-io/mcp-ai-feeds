@@ -50,6 +50,11 @@ const FEEDS: Record<string, FeedDef> = {
   'gary-marcus': { title: "Gary Marcus", url: "https://garymarcus.substack.com/feed", category: "ai", source: "garymarcus.substack.com", description: "AI critique & analysis" },
   'sebastian-raschka': { title: "Ahead of AI", url: "https://magazine.sebastianraschka.com/feed", category: "ai", source: "magazine.sebastianraschka.com", description: "ML & LLM deep dives" },
   'ai-supremacy': { title: "AI Supremacy", url: "https://www.ai-supremacy.com/feed", category: "ai", source: "ai-supremacy.com", description: "AI-industry analysis" },
+  'arxiv-cs-ai': { title: "arXiv cs.AI", url: "https://rss.arxiv.org/rss/cs.AI", category: "ai", source: "arxiv.org", description: "arXiv Artificial Intelligence preprints (cs.AI)" },
+  'arxiv-cs-lg': { title: "arXiv cs.LG", url: "https://rss.arxiv.org/rss/cs.LG", category: "ai", source: "arxiv.org", description: "arXiv Machine Learning preprints (cs.LG)" },
+  'arxiv-cs-cl': { title: "arXiv cs.CL", url: "https://rss.arxiv.org/rss/cs.CL", category: "ai", source: "arxiv.org", description: "arXiv Computation & Language / NLP preprints (cs.CL)" },
+  'arxiv-cs-cv': { title: "arXiv cs.CV", url: "https://rss.arxiv.org/rss/cs.CV", category: "ai", source: "arxiv.org", description: "arXiv Computer Vision & Pattern Recognition preprints (cs.CV)" },
+  'arxiv-stat-ml': { title: "arXiv stat.ML", url: "https://rss.arxiv.org/rss/stat.ML", category: "ai", source: "arxiv.org", description: "arXiv Machine Learning (statistics) preprints (stat.ML)" },
 };
 
 const tools: McpToolExport['tools'] = [
