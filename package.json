@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ai-feeds",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "AI Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d6826bf3d35768b9992ba875d5ff03a99edf7f164a2edde5e1c60c1836f1faca",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-8293d955aaef87cdf35d2d4e544103c9424265746717a3396043b967f8eafd20",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
