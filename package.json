@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ai-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "AI Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ai-feeds",
     "gatewaySlug": "ai-feeds",
-    "sourceHash": "v1-973678a009d91e8182791c36bde140fb8a018abbbff8f3519aced4038ab4b368",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-ca737929391bf2f0fbdbf15d17f2af46912fb427e274b04632f9433cff93f9c9",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
